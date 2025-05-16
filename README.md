@@ -19,7 +19,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/The-MuggleCaster.git
+git clone https://github.com/Mallika-Rajpal/The-MuggleCaster.git
 cd The-MuggleCaster
 
 # Create and activate virtual environment (Mac/Linux)
